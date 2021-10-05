@@ -1,1 +1,1 @@
-#Django Educational Website
+Django Educational Website
